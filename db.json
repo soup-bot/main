@@ -1,8 +1,9 @@
 {
-  "posts": [
+  "formData": [
     {
-      "id": 535,
-      "title": "heleeelo"
+      "recipeName": "Apple",
+      "ingredients": "heleeelo",
+      "instructions": "zumba bumba"
     }
   ],
   "profile": {
